@@ -1,0 +1,38 @@
+
+
+.logo {
+	margin: 0 auto;
+	max-width: 20em;
+	margin-bottom: 1em;
+}
+
+/* h1, h2, h3, p, div, header, footer, .welcome {
+	box-sizing: border-box;
+	border: 1px solid red;
+} */
+
+header {
+	background-color: #8EC08D;
+	color: white;
+	padding-bottom: 1em;
+	text-align: center;
+
+}
+
+header h1 {
+	font-family: 'Annie Use Your Telescope', Helvetica, Arial, sans-serif;
+	font-size: 2em;
+	letter-spacing: 3px;
+	margin-top: 0;
+	margin-bottom: .2em;
+	text-shadow: 2px 2px 3px black;
+}
+
+.welcome {
+	max-width: 100%;
+	margin: 1em auto;
+	border-radius: 5px;
+	background-color: #C07F76;
+	padding: 10px 10px;
+
+}
